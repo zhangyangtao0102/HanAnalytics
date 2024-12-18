@@ -6,8 +6,8 @@ pages_build_output_dir = "dist"
 binding = "AnalyticsBinding"
 dataset = "AnalyticsDataset"
 [vars]
-CLOUDFLARE_ACCOUNT_ID = '你的 Cloudflare Workers ID'
-CLOUDFLARE_API_TOKEN = '你的 Cloudflare API token'
+CLOUDFLARE_ACCOUNT_ID = 'd32c5464a145021a6cb6c406d51b923f'
+CLOUDFLARE_API_TOKEN = 'szBsdczdWir_RG5FqghOM2IbN5x4mbmO-SybIjSr'
 # 网站访问密码 (不设置即无需密码访问)
 CLOUDFLARE_WEBSITE_PWD = ''
 # 可统计的白名单 格式：  域名,WebSite|域名,WebSite，多个站点使用|分隔 例如：'api.vvhan.com,Hello-Han-Api|www.vvhan.com,Hello-HanHexoBlog'  (不设置即允许任何统计)
